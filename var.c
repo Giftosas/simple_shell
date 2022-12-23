@@ -135,6 +135,7 @@ char *replaced_input(r_var **head, char *input, char *new_input, int nlen)
 	return (new_input);
 }
 
+
 /**
  * rep_var - calls functions to replace string into vars
  *
